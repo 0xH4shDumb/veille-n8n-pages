@@ -1,0 +1,5 @@
+# Dépôt PUBLIC : liste blanche, seuls ces fichiers peuvent être publiés
+*
+!.gitignore
+!index.html
+!privacy.html
